@@ -44,3 +44,5 @@
 - отбраковка шумов
 
 - расширенный перебор гиперпараметров
+
+  ## страница kaggle: https://www.kaggle.com/code/neelen/notebook868c9d743a
